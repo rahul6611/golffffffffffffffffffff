@@ -1,0 +1,17 @@
+//  ================================================================================================
+//  ? TIP:  It is recommended to use this file for overriding bootstrap variables.
+//  ================================================================================================
+
+$primary: #FE5757;
+
+.main-menu .navbar-header {
+    height: 6rem;
+}
+
+[dir=ltr] .main-menu .navbar-header .navbar-brand .brand-text {
+    color: #000;
+}
+
+.navbar-nav img {
+    max-width: 50px !important;
+}
